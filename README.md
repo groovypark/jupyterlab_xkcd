@@ -30,3 +30,5 @@ npm run build
 jupyter lab build
 ```
 
+## jupyter node
+[https://github.com/notablemind/jupyter-nodejs/tree/master/lib](https://github.com/notablemind/jupyter-nodejs/tree/master/lib)
